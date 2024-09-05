@@ -1,0 +1,16 @@
+a {
+    color: blue;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+div {
+    border: 5px solid red;
+    width: 600px;
+    position: relative;
+}
+h1 {
+    font-weight: bold;
+    color: white;
+}
